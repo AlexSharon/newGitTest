@@ -9,3 +9,6 @@ def gcd(a, b):
 
 """new comment"""
 #added line
+
+def test(a, b):
+    """returns"""
