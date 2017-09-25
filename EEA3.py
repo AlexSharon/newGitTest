@@ -24,4 +24,4 @@ def test(a, b):
 
 #other
 
-print("f")
+print("foo")
