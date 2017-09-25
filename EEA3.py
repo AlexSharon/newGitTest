@@ -1,5 +1,5 @@
 def gcd(a, b):
-    """returns gcd of two values"""
+    """returns"""
     while(a != 0 and b != 0):
         if(a >= b):
             a = a % b
@@ -7,4 +7,5 @@ def gcd(a, b):
             b = b % a
     return a + b
 
+"""new comment"""
 #added line
