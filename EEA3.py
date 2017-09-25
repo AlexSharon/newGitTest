@@ -26,4 +26,4 @@ def test(a, b):
 
 print("foo")
 
-print("boo")
+print("boo0")
