@@ -24,3 +24,4 @@ def test(a, b):
 
 #other
 
+print("foo")
