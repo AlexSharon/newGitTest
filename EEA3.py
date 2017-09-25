@@ -10,7 +10,6 @@ def gcd(a, b):
 """new comment"""
 #added line
 
-
 def GGG(a, b):
     """returns gcd of two values"""
     while(a != 0 and b != 0):
@@ -19,3 +18,6 @@ def GGG(a, b):
         else:
             b = b % a
     return a + b
+
+def test(a, b):
+    """returns"""
