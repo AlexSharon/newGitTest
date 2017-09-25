@@ -7,4 +7,5 @@ def gcd(a, b):
             b = b % a
     return a + b
 
+"""new comment"""
 #added line
